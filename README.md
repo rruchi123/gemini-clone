@@ -1,16 +1,34 @@
-<<<<<<< HEAD
-# React + Vite
+# 🧠 Gemini Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Gemini-inspired AI assistant interface built using **React + Vite**, mimicking conversational capabilities via a powerful language model API.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
 
-## Expanding the ESLint configuration
+🚀 [View Live Project](https://your-deployed-link.vercel.app)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# gemini-clone
->>>>>>> origin/main
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React (via Vite)
+- 💅 Tailwind CSS (or your styling method)
+- 🌐 API Integration (e.g., OpenAI/Gemini API)
+- 🔄 Axios / Fetch
+- 📦 Node.js (for local development)
+- ☁️ Vercel (for deployment)
+
+---
+
+## 📁 Features
+
+- 🔍 Search or ask anything like Google Gemini
+- 💬 Chat UI with typing effects
+- 📜 Smooth scrolling and UI transitions
+- 📲 Responsive on all devices
+
+---
+
+
+

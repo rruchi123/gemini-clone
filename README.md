@@ -6,7 +6,7 @@ A Gemini-inspired AI assistant interface built using **React + Vite**, mimicking
 
 ## 🔗 Live Demo
 
-🚀 [View Live Project](https://your-deployed-link.vercel.app)
+🚀 [View Live Project](https://gemini-clone-topaz-kappa.vercel.app/)
 
 ---
 
@@ -15,7 +15,6 @@ A Gemini-inspired AI assistant interface built using **React + Vite**, mimicking
 - ⚛️ React (via Vite)
 - 💅 Tailwind CSS (or your styling method)
 - 🌐 API Integration (e.g., OpenAI/Gemini API)
-- 🔄 Axios / Fetch
 - 📦 Node.js (for local development)
 - ☁️ Vercel (for deployment)
 
